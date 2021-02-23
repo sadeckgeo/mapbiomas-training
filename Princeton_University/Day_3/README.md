@@ -11,7 +11,7 @@
     <img src="./Assets/random-forest.jpeg" alt="drawing" width="500"/>
 </p>
 
-If you want more details, check this Youtube Video: [StatQuest - Random Forest](https://youtu.be/J4Wdy0Wc_xQ)
+If you want more details, check this Youtube Video: [StatQuest - Random Forest](https://youtu.be/J4Wdy0Wc_xQ) and this [Solved Scholar - Random Forest](https://www.youtube.com/watch?v=Uu2Crr3GC_Q)
 
 **Variability**: Generally speaking, variability is how spread out or closely clustered a set of data is. In this sense, when capturing samples to train a supervised algorithm, the variability concept must always be in our minds. Let's think of beaches along a coastline; 
 
